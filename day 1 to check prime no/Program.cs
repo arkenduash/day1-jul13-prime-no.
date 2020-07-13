@@ -20,7 +20,7 @@ namespace day_1_to_check_prime_no
             }
             if (a == 2)
             {
-                Console.WriteLine("{0} is a Prime Number", n);
+                Console.WriteLine("Is a Prime Number", n);
             }
             else
             {
